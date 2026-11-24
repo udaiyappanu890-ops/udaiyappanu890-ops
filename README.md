@@ -11,5 +11,5 @@ Final-year ECE student from Coimbatore, India, interested in data analytics, sig
 Python · Java · Power BI · Excel · HTML · Signal Processing
 
 ## 📫 Contact
-- LinkedIn:https://www.linkedin.com/in/udaiyappan-saravanan-851b74383
-- Email:udaiyappanu890@gmail.com
+- LinkedIn:https: //www.linkedin.com/in/udaiyappan-saravanan-851b74383
+- Email: udaiyappanu890@gmail.com
